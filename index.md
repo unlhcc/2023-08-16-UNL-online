@@ -179,7 +179,7 @@ This block displays the date and links to Google Calendar.
   <strong>Cost:</strong>
   $25 for NU attendees / $50 for other attendees
 </p>
-<center><form><button name="button" style="background-color: D71920; padding: 15px 32px" formaction="https://marketplace.unl.edu/hcc/hcc-software-carpentry-workshop-august-2023.html">Registration now open!</button></form></center>
+<center><form><button name="button" style="background-color: D71920; padding: 15px 32px" formaction="https://marketplace.unl.edu/hcc/hcc-software-carpentry-workshop-august-2023.html">Registration now closed!</button></form></center>
 
 {% comment %}
 SPECIAL REQUIREMENTS
